@@ -7,5 +7,10 @@
 # All rights reserved - Do Not Redistribute
 #
 
-include_recipe 'provisioner::workstation'
-include_recipe 'provisioner::dhcp'
+if node['provisioner']['workstation'] = true
+  include_recipe 'provisioner::workstation'
+end
+
+if node['provisioner']['dhcp'] = true
+  include_recipe 'provisioner::dhcp'
+end
