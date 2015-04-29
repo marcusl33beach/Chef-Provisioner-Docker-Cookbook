@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: provisioner
+# Cookbook Name:: Chef-Provisioner-Docker-Cookbook
 # Recipe:: workstation
 #
 # Copyright 2015, marcusbeach.co

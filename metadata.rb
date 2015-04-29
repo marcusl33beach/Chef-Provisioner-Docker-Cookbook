@@ -1,7 +1,7 @@
-name             'provisioner'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+name             'Chef-Provisioner-Docker-Cookbook'
+maintainer       'http://www.marcusbeach.co'
+maintainer_email 'mrbeach.marcus@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures provisioner'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.0'
+version          '0.1.1'
