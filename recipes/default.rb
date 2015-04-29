@@ -2,9 +2,7 @@
 # Cookbook Name:: Chef-Provisioner-Docker-Cookbook
 # Recipe:: default
 #
-# Copyright 2015, marcusbeach.co
-#
-# All rights reserved - Do Not Redistribute
+# license 'Open source, marcusbeach.co'
 #
 
 if node['provisioner']['workstation'] == true

@@ -2,9 +2,7 @@
 # Cookbook Name:: Chef-Provisioner-Docker-Cookbook
 # Recipe:: workstation
 #
-# Copyright 2015, marcusbeach.co
-#
-# All rights reserved - Do Not Redistribute
+# license 'Open source, marcusbeach.co'
 #
 
 require "chef/provisioning/docker_driver"

@@ -1,3 +1,6 @@
+#
+# license 'Open source, marcusbeach.co'
+#
 default['provisioner']['workstation'] = true
 default['provisioner']['dhcp'] = false
 
