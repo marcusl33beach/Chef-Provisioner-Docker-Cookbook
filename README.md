@@ -22,7 +22,7 @@ Turn on Servers as needed.
 default['provisioner']['workstation'] = true
 default['provisioner']['dhcp'] = false
 ```
-Set the number of server you need.
+Set the number of servers you need.
 ``` Ruby
 default['provisioner']['workstation_number'] = '1'
 default['provisioner']['dhcp_number'] = '1'
