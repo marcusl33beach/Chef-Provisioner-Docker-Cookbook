@@ -2,7 +2,7 @@
 
 ### Decription
 ----------
-Chef Cookbook for building Docker containers with Chef Provisioner
+Chef Cookbook for building Docker containers with Chef Provisioning
 
 ### Dependencies 
 ---------------
